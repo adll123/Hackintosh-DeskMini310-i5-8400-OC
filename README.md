@@ -5,6 +5,8 @@
 
 ## 适用版本
 
+安装于2021年10月
+
 macOS Big Sur 11.5.2 
 
 OpenCore 0.7.4
