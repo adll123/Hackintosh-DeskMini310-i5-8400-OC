@@ -2,10 +2,9 @@
 
 
 
-## 适用系统版本
+## 适用版本
 
-macOS Big Sur 11.5.2 
-
+macOS Big Sur 11.5.2  OpenCore 0.7.4
 
 
 ## 检查项
@@ -22,12 +21,12 @@ macOS Big Sur 11.5.2
 ## 主机配置
 
 |                准系统 | ASRock Deskmini H310/COM  |
-|                   CPU | I5-8400                  |
-|                  显卡 | 核显 UHD 630         |
-|                  内存 | 威刚 万紫千红 DDR4 2666 8G * 2              |
-|             网卡&蓝牙 | BCM943602CS+NGFF A/E转接卡+IPX转SMA天线              |
-|                  硬盘 | 西数 512G M.2固态      |
-| 散热器 | IS40X               |
+|                  CPU | I5-8400                   |
+|                  显卡 | 核显 UHD 630              |
+|                  内存 | 威刚 万紫千红 DDR4 2666 8G * 2       |
+|             网卡&蓝牙  | BCM943602CS+NGFF A/E转接卡+IPX转SMA天线              |
+|                  硬盘  | 西数 512G M.2固态         |
+|                  散热器 | IS40X                   |
 
 
 ## 使用方法
