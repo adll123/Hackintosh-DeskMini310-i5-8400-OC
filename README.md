@@ -12,6 +12,8 @@ macOS Big Sur 11.5.2
 OpenCore 0.7.4
 
 
+![关于](./desktop.png)
+
 ## 检查项
 
 - [x] apple store 账号使用正常
