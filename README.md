@@ -4,7 +4,9 @@
 
 ## 适用版本
 
-macOS Big Sur 11.5.2  OpenCore 0.7.4
+macOS Big Sur 11.5.2 
+
+OpenCore 0.7.4
 
 
 ## 检查项
@@ -20,6 +22,8 @@ macOS Big Sur 11.5.2  OpenCore 0.7.4
 
 ## 主机配置
 
+|                配置 | 名称 |
+| --------------------: | ------------------------ |
 |                准系统 | ASRock Deskmini H310/COM  |
 |                  CPU | I5-8400                   |
 |                  显卡 | 核显 UHD 630              |
