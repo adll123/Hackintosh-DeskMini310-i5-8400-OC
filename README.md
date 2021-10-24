@@ -82,6 +82,8 @@ OpenCore 0.7.4
 
 ### [asrock-Deskmini-h310-hackintosh-EFI](https://github.com/TWanGT/asrock-Deskmini-h310-hackintosh-EFI)
 
+### [deskmini-h310](https://github.com/SnailDove/deskmini-h310)
+
 
 
 
