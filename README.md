@@ -28,7 +28,7 @@ OpenCore 0.7.4
 |                准系统 | ASRock Deskmini H310/COM  |
 |                  CPU | I5-8400                   |
 |                  显卡 | 核显 UHD 630              |
-|                  内存 | 威刚 万紫千红 DDR4 2666 8G * 2       |
+|                  内存 | 威刚笔记本内存 DDR4 2666 8G * 2       |
 |             网卡&蓝牙  | BCM943602CS+NGFF A/E转接卡+IPX转SMA天线              |
 |                  硬盘  | 西数 512G M.2固态         |
 |                  散热器 | IS40X                   |
@@ -42,7 +42,7 @@ OpenCore 0.7.4
 
 3. 拷贝替换同名目录下文件即可，修改主机型号为 Macmini8,1
 
-   ###  安装前BIOS 设置
+###  安装前BIOS 设置
 
 
 > Load UEFI Defaults
@@ -66,7 +66,7 @@ OpenCore 0.7.4
 
 
 
-## 特别感谢
+## 特别感谢(排名不分先后)
 
 ### [我的迷你主机之选-Asrock Deskmini 310](https://post.smzdm.com/p/aqnd99xp/)
 
