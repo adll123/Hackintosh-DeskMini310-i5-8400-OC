@@ -70,7 +70,7 @@ OpenCore 0.7.4
 
 
 
-## 特别感谢(排名不分先后)
+## 特别感谢（排名不分先后）
 
 ### [我的迷你主机之选-Asrock Deskmini 310](https://post.smzdm.com/p/aqnd99xp/)
 
