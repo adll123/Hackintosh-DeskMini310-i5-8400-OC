@@ -1,4 +1,5 @@
-# Hackintosh : ASRock Deskmini H310/COM
+# Hackintosh-DeskMini310-i5-8400-OC
+
 
 
 
@@ -39,29 +40,47 @@ OpenCore 0.7.4
 
 2. 安装完成，使用别的电脑挂载硬盘efi分区
 
-3. 拷贝替换同名目录下文件即可
+3. 拷贝替换同名目录下文件即可，修改主机型号为 Macmini8,1
 
    ###  安装前BIOS 设置
 
-   1. USB Configuration  XHCI Hand-off :  `Enabled`
-   2. Onboard HD Audio : ` Enabled`
-   3. Security boot : `Disabled`
-   4. others :` Default`
+
+> Load UEFI Defaults
+>   * Advanced
+>     - CPU Configuration
+>       - CPU C States Support : Enable
+>         - CFG LOCK : Disabled
+>     * Chipset Configuration
+>       * VT-d: Disabled
+>       * Onboard HD Audio: Enabled
+>     * USB Configuration
+>       * XHCI Hand-off: Enabled
+>     * Super IO Configuration
+>       * Serial Port: Disabled
+>   * Security
+>    
+>     * Secure Boot: Disabled(by default)
+>   - Boot
+>     * CSM disable
+>
 
 
 
 ## 特别感谢
 
-### [leogitpro](https://github.com/leogitpro)/**[Hackintosh-DeskMini310](https://github.com/leogitpro/Hackintosh-DeskMini310)**
+### [我的迷你主机之选-Asrock Deskmini 310](https://post.smzdm.com/p/aqnd99xp/)
 
-### [【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
+### [【黑果小兵】【微信首发】macOS Big Sur 11.5.2 20G95 Installer for OpenCore 0.7.1 and CLOVER 5138 and PE 三 EFI 分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.5.2-20G95-Release-version-with-OC-0.7.1-and-Clover-5138-and-PE-original-image.html)
 
-### [解决安装黑苹果macOS Catalina 10.15 Beta1 USB3.0或USB3.1无法使用](https://osx.cx/fix-hackintosh-macos-catalina-10-15-beta1-usb3-0.html)
+### [史上最全的黑苹果系统「MacOS」安装教程，小白也能秒掌握！](https://blog.csdn.net/easylife206/article/details/106088699)
 
+### [DeskMini310_EF](https://github.com/cocobear/DeskMini310_EF)
 
+### [Hackintosh-EFI-for-deskmini-310-dw1820](https://github.com/huangyanan/Hackintosh-EFI-for-deskmini-310-dw1820)
 
+### [DeskMini H310 OC引导安装BigSur 11.0.1过程简单记录及EFI分享](https://bbs.pcbeta.com/viewthread-1877600-1-1.html)
 
-
+### [asrock-Deskmini-h310-hackintosh-EFI](https://github.com/TWanGT/asrock-Deskmini-h310-hackintosh-EFI)
 
 
 
